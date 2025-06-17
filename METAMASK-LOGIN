@@ -1,0 +1,3 @@
+mkdir metamask-login-hcoinx
+cd metamask-login-hcoinx
+touch index.html README.md
