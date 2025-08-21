@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.automationProfile.windows": {
+        "env": {}
+    },
+    "terminal.integrated.enableImages": true
+}
